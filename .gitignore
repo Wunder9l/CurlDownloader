@@ -1,0 +1,10 @@
+*.opensdf
+*.sdf
+
+
+# Directories
+Debug/
+Release/
+.vs/
+CurlDownloader/Debug/
+CurlDownloader/Release/
